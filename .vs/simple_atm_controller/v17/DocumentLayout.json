@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rnenv\\Desktop\\ATM-controller\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D6797722-AA96-4279-9BF3-68DF697B2B9E}|simple_atm_controller\\simple_atm_controller.vcxproj|C:\\Users\\rnenv\\Desktop\\ATM-controller\\simple_atm_controller\\test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D6797722-AA96-4279-9BF3-68DF697B2B9E}|simple_atm_controller\\simple_atm_controller.vcxproj|solutionrelative:simple_atm_controller\\test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6797722-AA96-4279-9BF3-68DF697B2B9E}|simple_atm_controller\\simple_atm_controller.vcxproj|C:\\Users\\rnenv\\Desktop\\ATM-controller\\simple_atm_controller\\ATMController.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D6797722-AA96-4279-9BF3-68DF697B2B9E}|simple_atm_controller\\simple_atm_controller.vcxproj|solutionrelative:simple_atm_controller\\ATMController.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6797722-AA96-4279-9BF3-68DF697B2B9E}|simple_atm_controller\\simple_atm_controller.vcxproj|C:\\Users\\rnenv\\Desktop\\ATM-controller\\simple_atm_controller\\Bank.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D6797722-AA96-4279-9BF3-68DF697B2B9E}|simple_atm_controller\\simple_atm_controller.vcxproj|solutionrelative:simple_atm_controller\\Bank.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6797722-AA96-4279-9BF3-68DF697B2B9E}|simple_atm_controller\\simple_atm_controller.vcxproj|C:\\Users\\rnenv\\Desktop\\ATM-controller\\simple_atm_controller\\Account.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D6797722-AA96-4279-9BF3-68DF697B2B9E}|simple_atm_controller\\simple_atm_controller.vcxproj|solutionrelative:simple_atm_controller\\Account.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 171,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "test.cpp",
+              "DocumentMoniker": "C:\\Users\\rnenv\\Desktop\\ATM-controller\\simple_atm_controller\\test.cpp",
+              "RelativeDocumentMoniker": "simple_atm_controller\\test.cpp",
+              "ToolTip": "C:\\Users\\rnenv\\Desktop\\ATM-controller\\simple_atm_controller\\test.cpp",
+              "RelativeToolTip": "simple_atm_controller\\test.cpp",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABAAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-25T05:22:20.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ATMController.h",
+              "DocumentMoniker": "C:\\Users\\rnenv\\Desktop\\ATM-controller\\simple_atm_controller\\ATMController.h",
+              "RelativeDocumentMoniker": "simple_atm_controller\\ATMController.h",
+              "ToolTip": "C:\\Users\\rnenv\\Desktop\\ATM-controller\\simple_atm_controller\\ATMController.h",
+              "RelativeToolTip": "simple_atm_controller\\ATMController.h",
+              "ViewState": "AQIAABQAAAAAAAAAAAD4vy4AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-25T05:21:20.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Bank.h",
+              "DocumentMoniker": "C:\\Users\\rnenv\\Desktop\\ATM-controller\\simple_atm_controller\\Bank.h",
+              "RelativeDocumentMoniker": "simple_atm_controller\\Bank.h",
+              "ToolTip": "C:\\Users\\rnenv\\Desktop\\ATM-controller\\simple_atm_controller\\Bank.h",
+              "RelativeToolTip": "simple_atm_controller\\Bank.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-25T05:20:45.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Account.h",
+              "DocumentMoniker": "C:\\Users\\rnenv\\Desktop\\ATM-controller\\simple_atm_controller\\Account.h",
+              "RelativeDocumentMoniker": "simple_atm_controller\\Account.h",
+              "ToolTip": "C:\\Users\\rnenv\\Desktop\\ATM-controller\\simple_atm_controller\\Account.h",
+              "RelativeToolTip": "simple_atm_controller\\Account.h",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-25T04:43:04.655Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
