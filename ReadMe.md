@@ -10,14 +10,14 @@ Deposit Money: Add a specified amount to the account.
 Withdraw Money: Subtract a specified amount from the account (if funds are sufficient).   
 Eject Card: Reset the system for the next user.   
 
-Requirements
-C++11 or later.
-Visual Studio
+## Requirements
+C++11 or later.   
+Visual Studio 2022
 
 ## How to Build
 ##### 1. Clone the repository:
-bash
-```
+
+```bash
 git clone https://github.com/daniel-dev-kim/ATM-controller
 cd ATM-controller
 ```
