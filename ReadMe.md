@@ -11,10 +11,10 @@ Withdraw Money: Subtract a specified amount from the account (if funds are suffi
 Eject Card: Reset the system for the next user.
 
 ## Code Overview
-### Account Class: Handles account-related operations like deposits, withdrawals, and checking the balance.
+##### Account Class: Handles account-related operations like deposits, withdrawals, and checking the balance.
 
-### Bank Class: Simulates interactions with a banking system, such as PIN validation and fetching account data.
+##### Bank Class: Simulates interactions with a banking system, such as PIN validation and fetching account data.
 
-### ATMController Class: Manages the ATM workflow, interacting with the user and Bank to process requests.
+##### ATMController Class: Manages the ATM workflow, interacting with the user and Bank to process requests.
 
-### Test Code: A set of operations (runTests function) is provided to test the main features of the ATM controller.
+##### Test Code: A set of operations (runTests function) is provided to test the main features of the ATM controller.
